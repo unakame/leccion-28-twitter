@@ -35,3 +35,20 @@ a{
 body{
   background-color: #F5F8FA;
 }
+
+.icon-home2,
+.icon-bell,
+.icon-mail-envelope-closed{
+  color: #66757F;
+}
+
+#twittear{
+  background-color: #1DA1F2;
+  color: white;
+}
+
+.container2{
+  float: left;
+  margin-left: 100px;
+  box-sizing: border-box;
+}
