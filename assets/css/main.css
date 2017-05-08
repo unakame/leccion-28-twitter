@@ -8,13 +8,30 @@ a{
   color: #66757F;
 }
 
-.nav{
+.nav1{
   float: left;
   padding: 10px;
 }
 
 .container{
-  width: 1349px;
+  width: 100%;
   height: 46px;
-  background-color: red;
+  background-color: #fff;
+}
+
+#inicio{
+  margin-left: 100px;
+}
+
+.nav2{
+  float: right;
+  padding: 10px;
+}
+
+#twittear{
+  margin-right: 100px;
+}
+
+body{
+  background-color: #F5F8FA;
 }
